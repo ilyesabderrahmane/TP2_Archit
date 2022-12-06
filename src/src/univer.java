@@ -1,3 +1,5 @@
+package src;
+
 public class univer  implements Universite{
   
  private int i_univ; //identifiant unique de l'universite

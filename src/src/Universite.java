@@ -1,4 +1,4 @@
-
+package src;
 public interface Universite {
 	
 	int getI_univ();
