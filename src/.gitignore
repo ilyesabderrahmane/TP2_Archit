@@ -1,3 +1,4 @@
+/univer.class
 /DBConnection.class
 /Etudiant.class
 /EtudiantRepository.class
@@ -6,6 +7,3 @@
 /TypePackage.class
 /Universite.class
 /UniversiteRepository.class
-/un.class
-/EtuRep.class
-/univer.class
