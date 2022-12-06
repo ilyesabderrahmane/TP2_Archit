@@ -1,16 +1,15 @@
-
-public class Universite {
-
- private int i_univ; //identifiant unique de l'université
+public class univer  implements Universite{
+  
+ private int i_univ; //identifiant unique de l'universite
  private String nom;
  private TypePackage pack;
  
-	public Universite(int i_univ, String nom, TypePackage pack) {
-	super();
-	this.i_univ = i_univ;
-	this.nom = nom;
-	this.pack = pack;
-}
+	public univer(int i_univ, String nom, TypePackage pack) {
+    super();
+    this.i_univ = i_univ;
+    this.nom = nom;
+    this.pack = pack;
+  }
 	public int getI_univ() {
 		return i_univ;
 	}
@@ -29,9 +28,4 @@ public class Universite {
 	public void setPack(TypePackage pack) {
 		this.pack = pack;
 	}
-	 
- 
-
- 
- 
 }
