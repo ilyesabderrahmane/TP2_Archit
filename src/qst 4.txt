@@ -1,1 +1,0 @@
-L'objectif de cette am lioration est d' liminer les d pendances des modules d'haut niveau sur des modules de bas niveau (les modules contenant plusieurs d tails), et donc les changements sur ses d tails n'affecte pas les modules d'haut niveau.
