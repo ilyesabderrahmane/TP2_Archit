@@ -1,8 +1,8 @@
-package src;
+
 
 public class univer  implements Universite{
   
- private int i_univ; //identifiant unique de l'universite
+ private int i_univ; 
  private String nom;
  private TypePackage pack;
  

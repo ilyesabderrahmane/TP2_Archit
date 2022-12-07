@@ -1,7 +1,9 @@
-package src;
+
 import java.sql.SQLException;
 
+
+
 public interface UniversiteRepository {	
-	Universite GetById(int universityId) throws SQLException;
+	univer GetById(int universityId) throws SQLException;
 	
 }
