@@ -1,0 +1,4 @@
+
+
+ le probleme est dans initialisation de nombre de livre monsuel autorisé et d'ajout de bonus Dans le changement des valeurs relié avec un package ou un ajout de package
+il faut changer les différente occurences de ces valeurs
